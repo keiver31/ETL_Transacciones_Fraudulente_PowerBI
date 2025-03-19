@@ -20,7 +20,7 @@ Siguiendo el orden correcto, se pueden realizar los ajustes correspondientes par
 #### 1.1. Código del Job
 
 - En la sección "Script", incluir el código.
-- Revisar el código en [DataCatalog_to_RDS.py](./scripts/DataCatalog_to_RDS.py)
+- Revisar el código en [DataCatalog_to_RDS.py](ETL_Transacciones_Fraudulente_PowerBI/scripts/DataCatalog_to_RDS.py)
 - En los campos "USUARIO_ROOT", "CLAVE_ROOT" y "jdbc:mysql://<Punto de enlace>:<Puerto>/db_report_fraud_bank_v2", asignar los valores respectivos.
 - Dar clic en "Save" y luego en "Run".
 - Buscar la ruta "AWS Glue/ETL jobs" y dar clic sobre "etl_s3_to_rds_v2.0", este debe estar en ejecución o debe haber terminado de ejecutar.

@@ -63,7 +63,7 @@ Nota: Ingresar a "Kaggle_Lambda_Extraccion_Comprimido" y copiar el "ARN de la ve
 
 #### 4. Código de la Lambda
 
-- Revisar el script [Lambda_Kaggle_Extraccion.py](./scripts/Lambda_Kaggle_Extraccion.py)
+- Revisar el script [Lambda_Kaggle_Extraccion.py](ETL_Transacciones_Fraudulente_PowerBI/scripts/Lambda_Kaggle_Extraccion.py)
 - En los campos "KAGGLE_USERNAME" y "KAGGLE_KEY", asignar las credenciales de ingreso.
 
 #### 5. Ejecución de la Lambda

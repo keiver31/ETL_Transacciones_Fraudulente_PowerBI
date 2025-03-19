@@ -38,7 +38,7 @@ Siguiendo el orden correcto, se pueden realizar los ajustes correspondientes par
 
 #### 4. Código de la Lambda
 
-- Revisar el script [Lambda_Save_File_S3.py](./scripts/Lambda_Save_File_S3.py)
+- Revisar el script [Lambda_Save_File_S3.py](ETL_Transacciones_Fraudulente_PowerBI/scripts/Lambda_Save_File_S3.py)
 
 
 #### 5. Ejecución de la Lambda
