@@ -32,7 +32,7 @@ Siguiendo el orden correcto, se pueden realizar los ajustes correspondientes par
 - En "AWS Glue/Databases/Tables" validar la creación de la tabla "dataclean_creditcard_transform_csv"
 
 
-### Configuraciones Adicionales
+## Configuraciones Adicionales
 
 #### 1. Creación del Rol
 
@@ -49,9 +49,9 @@ Siguiendo el orden correcto, se pueden realizar los ajustes correspondientes par
 
 #### 2. Creación de Base de Datos
 
-##### 1.1 Ingresar al servicio de AWS "AWS Glue"
-##### 1.2 Seleccionar "Databases" y dar clic en "Add database"
-##### 1.3 Realizar la siguiente parametrización.
+##### 2.1 Ingresar al servicio de AWS "AWS Glue"
+##### 2.2 Seleccionar "Databases" y dar clic en "Add database"
+##### 2.3 Realizar la siguiente parametrización.
 
 - Name: "db_report_fraud_bank_2.0"
 - Dar clic en "Create database"

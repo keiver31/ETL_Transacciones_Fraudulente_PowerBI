@@ -73,5 +73,10 @@ La solución desarrollada esta implementada en AWS y Power BI.
 Copyright 2025 Keiver Reinaldo Rincon Pabon
 
 
+## Author 🙆‍♂️
+
+- [@keiver31](https://www.github.com/keiver31)
+
+
 
 

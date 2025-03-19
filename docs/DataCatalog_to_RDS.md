@@ -27,7 +27,7 @@ Siguiendo el orden correcto, se pueden realizar los ajustes correspondientes par
 -En la sección "Runs", en el campo "Run status", aparece el estado, si el proceso se realizo de manera exitosa, este debe de marcar "Succeded"
 
 
-### Configuraciones Adicionales
+## Configuraciones Adicionales
 
 #### 1. Creación del Rol
 

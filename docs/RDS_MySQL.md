@@ -81,7 +81,7 @@ SELECT * FROM dataclean_creditcard_transform_csv LIMIT 10;
 
 - Si se observan los registros en "sqlelectron", esto quiero decir que la data se cargo de forma correcta a AWS RDS desde Glue y que la conexión entre AWS RDS y "sqlelectron", esta activa y funciona.
 
-### Configuraciones Adicionales
+## Configuraciones Adicionales
 
 #### 1. Creación del Grupo de Seguridad
 
