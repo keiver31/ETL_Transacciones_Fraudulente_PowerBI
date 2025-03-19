@@ -68,8 +68,8 @@ Nota: Ingresar a "Kaggle_Lambda_Extraccion_Comprimido" y copiar el "ARN de la ve
 
 #### 5. Ejecución de la Lambda
 
--Dar clic en "Deploy", esperar al mensaje de confirmación.
--Dar clic en "Test", esperar el mensaje de confirmación.
+- Dar clic en "Deploy", esperar al mensaje de confirmación.
+- Dar clic en "Test", esperar el mensaje de confirmación.
 
 #### 6. Validación del proceso
 
