@@ -43,8 +43,8 @@ Siguiendo el orden correcto, se pueden realizar los ajustes correspondientes par
 
 #### 5. Ejecución de la Lambda
 
--Dar clic en "Deploy", esperar al mensaje de confirmación.
--Dar clic en "Test", esperar el mensaje de confirmación.
+- Dar clic en "Deploy", esperar al mensaje de confirmación.
+- Dar clic en "Test", esperar el mensaje de confirmación.
 
 #### 6. Validación del proceso
 
