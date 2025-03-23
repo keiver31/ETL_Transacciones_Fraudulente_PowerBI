@@ -3,7 +3,9 @@
 
 - Power BI: [ETL de Transacciones Bancarias Fraudulentas](https://app.powerbi.com/view?r=eyJrIjoiOTg5OGMyY2YtYzc2Ny00OTU4LWE0NjYtZGJmMzg5Y2Y0OGJhIiwidCI6ImEyMWY0YzI3LTMzZTUtNGNhZC1hMWZmLTYxNjdiZDlmOWE0NSIsImMiOjR9)
 
-<img src="images/Arquitectura.png" width=80%> <br>
+<img src="images/BI_Fraude2.png" width=80%> <br>
+<img src="images/BI_Fraude1.png" width=80%> <br>
+<img src="images/BI_Fraude3.png" width=80%> <br>
 
 ## Resumen 📋
 
