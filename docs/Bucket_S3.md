@@ -2,7 +2,7 @@
 
 Importante: 
 
-- Despues de terminar de realizar la configuración descrita en esta sección, se deben realizar los pasos de [Lambda_Kaggle_Extraccion  README](./docs/Lambda_Kaggle_Extraccion.md)
+- Despues de terminar de realizar la configuración descrita en esta sección, se deben realizar los pasos de [Lambda_Kaggle_Extraccion  README](./Lambda_Kaggle_Extraccion.md)
 
 Siguiendo el orden correcto, se pueden realizar los ajustes correspondientes para la configuración de esta lambda.
 

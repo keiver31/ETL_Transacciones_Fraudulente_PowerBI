@@ -1,8 +1,8 @@
 # LAMBDA SAVE FILE S3
 
 Importante: 
-- Antes de iniciar la configuración descrita en esta sección, se deben realizar los pasos de [Lambda_Kaggle_Extraccion  README](./docs/Lambda_Kaggle_Extraccion.md)
-- Despues de terminar de realizar la configuración descrita en esta sección, se deben realizar los pasos de [Crawler_S3_to_Glue-DataCatalog](./docs/Crawler_S3_to_Glue-DataCatalog.md)
+- Antes de iniciar la configuración descrita en esta sección, se deben realizar los pasos de [Lambda_Kaggle_Extraccion  README](./Lambda_Kaggle_Extraccion.md)
+- Despues de terminar de realizar la configuración descrita en esta sección, se deben realizar los pasos de [Crawler_S3_to_Glue-DataCatalog](./Crawler_S3_to_Glue-DataCatalog.md)
 
 Siguiendo el orden correcto, se pueden realizar los ajustes correspondientes para la configuración de esta lambda.
 
@@ -38,7 +38,7 @@ Siguiendo el orden correcto, se pueden realizar los ajustes correspondientes par
 
 #### 4. Código de la Lambda
 
-- Revisar el script [Lambda_Save_File_S3.py](ETL_Transacciones_Fraudulente_PowerBI/scripts/Lambda_Save_File_S3.py)
+- Revisar el script [Lambda_Save_File_S3.py](../scripts/Lambda_Save_File_S3.py)
 
 
 #### 5. Ejecución de la Lambda

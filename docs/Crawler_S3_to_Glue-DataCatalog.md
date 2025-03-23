@@ -1,8 +1,8 @@
 # CRAWLER DE S3 A GLUE DATACATALOG
 
 Importante: 
-- Antes de iniciar la configuración descrita en esta sección, se deben realizar los pasos de [Lambda_Save_File_S3 README](./docs/Lambda_Save_File_S3.md)
-- Despues de terminar de realizar la configuración descrita en esta sección, se deben realizar los pasos de [Creación RDS_MySQL README](./docs/RDS_MySQL.md)
+- Antes de iniciar la configuración descrita en esta sección, se deben realizar los pasos de [Lambda_Save_File_S3 README](./Lambda_Save_File_S3.md)
+- Despues de terminar de realizar la configuración descrita en esta sección, se deben realizar los pasos de [Creación RDS_MySQL README](./RDS_MySQL.md)
 
 Siguiendo el orden correcto, se pueden realizar los ajustes correspondientes para la configuración de esta lambda.
 

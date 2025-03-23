@@ -2,8 +2,8 @@
 # LAMBDA KAGGLE EXTRACCION
 
 Importante: 
-- Antes de iniciar la configuración descrita en esta sección, se deben realizar los pasos de [Creación Bucket S3 README](./docs/Bucket_S3.md)
-- Despues de terminar de realizar la configuración descrita en esta sección, se deben realizar los pasos de [Lambda_Save_File_S3 README](./docs/Lambda_Save_File_S3.md)
+- Antes de iniciar la configuración descrita en esta sección, se deben realizar los pasos de [Creación Bucket S3 README](./Bucket_S3.md)
+- Despues de terminar de realizar la configuración descrita en esta sección, se deben realizar los pasos de [Lambda_Save_File_S3 README](./Lambda_Save_File_S3.md)
 
 Siguiendo el orden correcto, se pueden realizar los ajustes correspondientes para la configuración de esta lambda.
 
@@ -63,7 +63,7 @@ Nota: Ingresar a "Kaggle_Lambda_Extraccion_Comprimido" y copiar el "ARN de la ve
 
 #### 4. Código de la Lambda
 
-- Revisar el script [Lambda_Kaggle_Extraccion.py](ETL_Transacciones_Fraudulente_PowerBI/scripts/Lambda_Kaggle_Extraccion.py)
+- Revisar el script [Lambda_Kaggle_Extraccion.py](../scripts/Lambda_Kaggle_Extraccion.py)
 - En los campos "KAGGLE_USERNAME" y "KAGGLE_KEY", asignar las credenciales de ingreso.
 
 #### 5. Ejecución de la Lambda

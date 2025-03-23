@@ -1,8 +1,8 @@
 # CREACIÓN DE RDS y Base de Datos
 
 Importante: 
-- Antes de iniciar la configuración descrita en esta sección, se deben realizar los pasos de [Crawler_S3_to_Glue-DataCatalog README](./docs/Crawler_S3_to_Glue-DataCatalog.md)
-- Despues de terminar de realizar la configuración descrita en esta sección, se deben realizar los pasos de [Job DataCatalog_to_RDS README](./docs/DataCatalog_to_RDS.md)
+- Antes de iniciar la configuración descrita en esta sección, se deben realizar los pasos de [Crawler_S3_to_Glue-DataCatalog README](./Crawler_S3_to_Glue-DataCatalog.md)
+- Despues de terminar de realizar la configuración descrita en esta sección, se deben realizar los pasos de [Job DataCatalog_to_RDS README](./DataCatalog_to_RDS.md)
 
 Siguiendo el orden correcto, se pueden realizar los ajustes correspondientes para la configuración de esta lambda.
 
@@ -74,7 +74,7 @@ CREATE TABLE dataclean_creditcard_transform_csv (
 
 #### 4. Validación del proceso desde el local
 
-- Despues de ejecutar el "job" en [Job DataCatalog_to_RDS README](./docs/DataCatalog_to_RDS.md), se valida si los registros se cargaron en AWS RDS, entonces con la conexión de "sqlelectron" a "AWS RDS", se ejecuta el siguiente comando:
+- Despues de ejecutar el "job" en [Job DataCatalog_to_RDS README](./DataCatalog_to_RDS.md), se valida si los registros se cargaron en AWS RDS, entonces con la conexión de "sqlelectron" a "AWS RDS", se ejecuta el siguiente comando:
 
 USE db_report_fraud_bank_v2;
 SELECT * FROM dataclean_creditcard_transform_csv LIMIT 10;
